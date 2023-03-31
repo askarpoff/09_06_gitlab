@@ -15,6 +15,17 @@
 7. Если сборка происходит на ветке `master`: должен подняться pod kubernetes на основе образа `python-api`, иначе этот шаг нужно пропустить.
 
 ## Ответ
+```dockerfile
+FROM centos/python-38-centos7:latest
+RUN pip3 install --upgrade pip
+RUN pip3 install flask flask-jsonpify flask-restful
+RUN mkdir python_api
+COPY python-api.py /python_api/python-api.py
+
+WORKDIR /python_api
+
+CMD ["python3", "python-api.py"]
+```
 ![image](https://user-images.githubusercontent.com/108946489/229235868-53394af6-6024-4b53-a688-29b64f7dab1f.png)
 ```
 stages:
