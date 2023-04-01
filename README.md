@@ -67,6 +67,7 @@ deploy:
 1. Какой метод необходимо исправить.
 2. Текст с `{ "message": "Already started" }` на `{ "message": "Running"}`.
 3. Issue поставить label: feature.
+![image](https://user-images.githubusercontent.com/108946489/229269953-0ea996c7-b76a-4bd6-adf2-69ec8e9a83d0.png)
 
 ### Developer
 
@@ -75,6 +76,8 @@ deploy:
 1. Создать отдельную ветку, связанную с этим Issue.
 2. Внести изменения по тексту из задания.
 3. Подготовить Merge Request, влить необходимые изменения в `master`, проверить, что сборка прошла успешно.
+![image](https://user-images.githubusercontent.com/108946489/229270046-1321a553-cdef-4e74-b9aa-8525e16aa4e5.png)
+![image](https://user-images.githubusercontent.com/108946489/229270133-f0f89f25-4e47-49eb-be1a-480b85cb1168.png)
 
 
 ### Tester
