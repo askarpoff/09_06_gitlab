@@ -67,6 +67,7 @@ deploy:
 1. Какой метод необходимо исправить.
 2. Текст с `{ "message": "Already started" }` на `{ "message": "Running"}`.
 3. Issue поставить label: feature.
+## Ответ
 ![image](https://user-images.githubusercontent.com/108946489/229269953-0ea996c7-b76a-4bd6-adf2-69ec8e9a83d0.png)
 
 ### Developer
@@ -76,6 +77,7 @@ deploy:
 1. Создать отдельную ветку, связанную с этим Issue.
 2. Внести изменения по тексту из задания.
 3. Подготовить Merge Request, влить необходимые изменения в `master`, проверить, что сборка прошла успешно.
+## Ответ
 ![image](https://user-images.githubusercontent.com/108946489/229270046-1321a553-cdef-4e74-b9aa-8525e16aa4e5.png)
 ![image](https://user-images.githubusercontent.com/108946489/229270133-f0f89f25-4e47-49eb-be1a-480b85cb1168.png)
 
@@ -86,6 +88,10 @@ deploy:
 
 1. Поднять докер-контейнер с образом `python-api:latest` и проверить возврат метода на корректность.
 2. Закрыть Issue с комментарием об успешности прохождения, указав желаемый результат и фактически достигнутый.
+## Ответ
+![image](https://user-images.githubusercontent.com/108946489/229271165-f1cfe391-86a6-4544-9660-cad63f0c1108.png)
+![image](https://user-images.githubusercontent.com/108946489/229271644-d8cf7f9b-e1e3-4d33-a7bf-001893ea3bb5.png)
+
 
 ## Итог
 
