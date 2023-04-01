@@ -90,7 +90,10 @@ deploy:
 2. Закрыть Issue с комментарием об успешности прохождения, указав желаемый результат и фактически достигнутый.
 ## Ответ
 ![image](https://user-images.githubusercontent.com/108946489/229271165-f1cfe391-86a6-4544-9660-cad63f0c1108.png)
+![image](https://user-images.githubusercontent.com/108946489/229271707-ccb7469e-4704-49bb-96bf-58aad60a9c87.png)
 ![image](https://user-images.githubusercontent.com/108946489/229271644-d8cf7f9b-e1e3-4d33-a7bf-001893ea3bb5.png)
+
+![image](https://user-images.githubusercontent.com/108946489/229271884-9c516acd-b281-4b58-bd4a-045c7cb9a79e.png)
 
 
 ## Итог
